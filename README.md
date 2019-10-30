@@ -1,10 +1,11 @@
-# BuildingWebAndMobileApps_TheFivest
-Master AI Building Web and Mobile Apps WiSe19/20
+# Building Web- and Mobile-Apps 
+Master AI/GSD - Winter Semester 2019/20  
+**Teamlead:** Philip Schimmelpfennig
 
-- Teamlead: Philip Schimmelpfennig
+- Realtime Document Editor (like Google Docs)
+- Web App using Socket.io / Angular / Node.js
+- Mobile App using NativeScript
+- Run on http://localhost/ in Browser and on Android Emulator
 
-- 2 pages Doc outlining our plans
-- Realtime Document Editor with Socket.io/Angular/Node.js
-- On Mobile using NativeScript
-- Run on localhost in Browser/Android Emulator
-- tada! ez pz lemon squeezy
+## To-Do
+- Write 2 page document outlining our plans! (deadline 05.11.)
